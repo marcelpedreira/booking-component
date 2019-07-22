@@ -1,0 +1,76 @@
+{
+  "destinations": [
+    {
+      "id": "ATL",
+      "city": "Atlanta",
+      "state": "GA",
+      "airport": "Hartsfield-Jackson International Airport"
+    },
+    {
+      "id": "LAX",
+      "city": "Los Angeles",
+      "state": "CA",
+      "airport": "Los Angeles International Airport"
+    },
+    {
+      "id": "ORD",
+      "city": "Chicago",
+      "state": "IL",
+      "airport": "O'Hire"
+    },
+    {
+      "id": "DFW",
+      "city": "Dallas/Fort Worth",
+      "state": "TX",
+      "airport": "Dallas-Fort Worth International Airport"
+    },
+    {
+      "id": "JFK",
+      "city": "New York",
+      "state": "NY",
+      "airport": "John F. Kennedy International Airport"
+    },
+    {
+      "id": "DEN",
+      "city": "Denver",
+      "state": "CO",
+      "airport": "Denver International Airport"
+    },
+    {
+      "id": "SFO",
+      "city": "San Francisco",
+      "state": "CA",
+      "airport": "San Francisco International Airport"
+    },
+    {
+      "id": "CLT",
+      "city": "Charlotte",
+      "state": "NC",
+      "airport": "Charlotte-Douglas International Airport"
+    },
+    {
+      "id": "LAS",
+      "city": "Las Vegas",
+      "state": "NV",
+      "airport": "McCarran International Airport"
+    },
+    {
+      "id": "PHX",
+      "city": "Phoenix",
+      "state": "AZ",
+      "airport": "Phoenix-Sky Harbor International Airport"
+    },
+    {
+      "id": "MIA",
+      "city": "Miami",
+      "state": "FL",
+      "airport": "Miami International Airport"
+    },
+    {
+      "id": "IAH",
+      "city": "Houston",
+      "state": "TX",
+      "airport": "George Bush Intercontinental Airport"
+    }
+  ]
+}

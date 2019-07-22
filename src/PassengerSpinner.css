@@ -1,0 +1,17 @@
+.spinner-button {
+  display: inline-block;
+  width: 1.2rem;
+  height: 100%;
+  display: inline-block;
+  padding: 0;
+  border-width: 0;
+  background-color: rgb(241, 244, 247);
+  color: rgb(30, 147, 245);
+  font-weight: bold;
+  transition: background-color 0.5s ease-in-out;
+}
+
+.spinner-button:hover {
+  background-color: rgb(30, 147, 245);
+  color: rgb(241, 244, 247);
+}

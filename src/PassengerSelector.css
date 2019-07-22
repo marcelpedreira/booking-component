@@ -1,0 +1,26 @@
+.passenger-selector {
+  padding: 0.5rem 2rem 0.5rem 2rem;
+  width: 20rem;
+  /* font-weight: bold; */
+}
+
+.passenger-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0.5rem 0 0.5rem 0;
+  height: 2rem;
+}
+
+.dropdown-menu {
+  transition: all 1s ease;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+/* .passenger-row .passenger-spinner {
+  flex-basis: 30%;
+}
+
+.passenger-row .passenger-label {
+  flex-basis: 70%;
+} */

@@ -1,0 +1,24 @@
+.inputFocused {
+  position: absolute;
+  z-index: 2;
+  top: 0px;
+  left: 0px;
+  width: 30rem;
+  height: 5rem;
+  padding: 2rem;
+  background-color: white;
+  /* border-width: 0; */
+  /* border-color: white;
+  border-style: none !important;
+  border-image: none !important; */
+  outline-color: white;
+  outline-style: none !important;
+  outline-width: 0;
+  /* outline: 0, none, white; */
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  /* border-width: 0px;
+  border-style: solid; */
+  /* border-color: */
+  /* margin-right: 0.5rem;
+  margin-left: 0.5rem; */
+}
